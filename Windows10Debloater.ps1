@@ -80,7 +80,6 @@ Function DebloatBlacklist {
         "microsoft.windowscommunicationsapps"
         "Microsoft.WindowsFeedbackHub"
         "Microsoft.WindowsMaps"
-        "Microsoft.WindowsSoundRecorder"
         "Microsoft.Xbox.TCUI"
         "Microsoft.XboxApp"
         "Microsoft.XboxGameOverlay"
